@@ -3,3 +3,6 @@
 *_api_key.txt
 __pycache__/
 .ipynb_checkpoints/
+git rm --cached .env
+git commit -m "Stop tracking .env file"
+
